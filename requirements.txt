@@ -118,14 +118,12 @@ pyHanko==0.20.1
 pyhanko-certvalidator==0.24.1
 pyparsing==3.2.1
 pypdf==3.17.1
-pypiwin32==223
 pypng==0.20220715.0
 python-bidi==0.4.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pyttsx3==2.90
 pytz==2025.1
-pywin32==306
 PyYAML==6.0
 pyzmq==26.3.0
 qrcode==7.4.2

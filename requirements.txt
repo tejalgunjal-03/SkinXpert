@@ -94,7 +94,6 @@ opt-einsum==3.3.0
 optree==0.11.0
 oscrypto==1.3.0
 packaging==24.2
-package_coffee==0.44
 pandas==2.2.3
 parso==0.8.4
 pillow==11.1.0

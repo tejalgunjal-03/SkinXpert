@@ -118,7 +118,6 @@ pyHanko==0.20.1
 pyhanko-certvalidator==0.24.1
 pyparsing==3.2.1
 pypdf==3.17.1
-pypiwin32==223
 pypng==0.20220715.0
 python-bidi==0.4.2
 python-dateutil==2.9.0.post0

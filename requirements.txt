@@ -154,6 +154,7 @@ tenacity==9.0.0
 tensorboard==2.9.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
+tensorflow==2.19.0
 tensorflow-estimator==2.9.0
 tensorflow-intel==2.16.1
 tensorflow-io-gcs-filesystem==0.31.0
